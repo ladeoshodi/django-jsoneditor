@@ -12,7 +12,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(
-    name = 'django-jsoneditor-ng',
+    name = 'django-jsoneditor',
     version = jsoneditor.__version__,
     description = description,
     author = AUTHOR,
